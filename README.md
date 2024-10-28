@@ -29,7 +29,7 @@ If you want a name for the final file other than "PDF FINAL.pdf" go into the cod
 ### Final PDF
 Now just run the code, and in a matter of seconds it will generate your merged PDF.
 
-![image](https://github.com/user-attachments/assets/5773a58b-7422-4537-a48e-5c7390a70ca3)
+![image](https://github.com/user-attachments/assets/73b9e68c-8484-433a-89a0-97bd867e5508)
 
 
 
