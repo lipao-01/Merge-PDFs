@@ -15,6 +15,7 @@ Merge PDFs is a practical tool for merging your PDFs without the need for the in
 
 ### Choosing the files
 Copy and paste the files that will be used in the file folder.
+
 ![image](https://github.com/user-attachments/assets/246b620b-f802-4ef6-aa4e-fb539079080e)
 
 
@@ -27,6 +28,7 @@ If you want a name for the final file other than "PDF FINAL.pdf" go into the cod
 
 ### Final PDF
 Now just run the code, and in a matter of seconds it will generate your merged PDF.
+
 ![image](https://github.com/user-attachments/assets/5773a58b-7422-4537-a48e-5c7390a70ca3)
 
 
